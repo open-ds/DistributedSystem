@@ -18,6 +18,7 @@
 
 可用性的衡量指标：`Availability = uptime / (uptime + downtime)`。一般用4个9、5个9等来描述。
 
+```
 Availability %	How much downtime is allowed per year?
 90% ("one nine")	More than a month
 99% ("two nines")	Less than 4 days
@@ -25,6 +26,7 @@ Availability %	How much downtime is allowed per year?
 99.99% ("four nines")	Less than an hour
 99.999% ("five nines")	~ 5 minutes
 99.9999% ("six nines")	~ 31 seconds
+```
 
 ### 性能
 
